@@ -19,8 +19,8 @@ social: true
 
 Thanks for stopping by!
 
-I'm a graduate student at the University of Maryland, College Park. Currently, I am interning at Synopsys where I am working on document interpretation using large language models. 
+I'm a graduate student at the [University of Maryland, College Park](https://www.umd.edu). Currently, I am interning at [Synopsys Inc.](https://www.synopsys.com/ai/ai-powered-eda.html) where I am working on understanding long documents using language models.  
 
-Prior to my Masters, I was a Software Engineer in the Product and Innovation team at HoloSuit Pte. Ltd. 
+Prior to my Masters, I was a Software Engineer in the Product and Innovation team at [HoloSuit Pte. Ltd.](https://www.holoworld.one). 
 
-I graduated with a B.E. in Computer Science and Engineering from JSS Science and Technology University (formerly SJCE), Mysore, India in 2020.
+I completed my undergrad from [JSS Science and Technology University](https://www.sjce.ac.in) (formerly SJCE), Mysore, India in 2020.

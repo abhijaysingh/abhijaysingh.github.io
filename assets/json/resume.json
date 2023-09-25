@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Abhijay Singh",
-    "label": "Machine Learning Engineer",
+    "label": "",
     "image": "",
     "email": "abhijayks98@gmail.com",
     "phone": "",
@@ -26,13 +26,11 @@
     {
       "name": "Synopsys Inc.",
       "position": "Machine Learning Engineer Intern",
-      "url": "https://synopsys.ai",
-      "startDate": "2023-05-29",
-      "endDate": "Present",
+      "url": "https://www.synopsys.com/ai/ai-powered-eda.html",
+      "startDate": "2023-05",
+      "endDate": "Now",
       "summary": "Working on understanding documents and generating Verilog code.",
-      "highlights": [
-        "LLMs", "NLP"
-      ]
+      "highlights": []
     },
     {
       "name": "HoloSuit Pte. Ltd.",
@@ -41,20 +39,16 @@
       "startDate": "2022-01",
       "endDate": "2022-06",
       "summary": "Developing Deep RL controller for exoskeleton. Maintaining HoloSuit SDK.",
-      "highlights": [
-        "Deep RL", "Unity", "C#", "Python", "Unreal Engine", "C++", "Blender", "Maya"
-      ]
+      "highlights": []
     },
     {
       "name": "HoloSuit Pte. Ltd.",
       "position": "Software Development Engineer",
       "url": "https://holoworld.one",
       "startDate": "2020-06",
-      "endDate": "2022-12",
+      "endDate": "2021-12",
       "summary": "Teleoperated humanoid-robots and Holosuit SDK.",
-      "highlights": [
-        "Deep RL", "Unity", "C#", "Python", "Unreal Engine", "C++", "Blender", "Maya"
-      ]
+      "highlights": []
     },
     {
       "name": "HoloSuit Pte. Ltd.",
@@ -63,9 +57,7 @@
       "startDate": "2019-05",
       "endDate": "2019-08",
       "summary": "3D Reconstruction of scenes from RGB-D images.",
-      "highlights": [
-        "SLAM", "Surface Reconstruction", "Python", "C++" 
-      ]
+      "highlights": []
     }
   ],
   "volunteer": [],
@@ -105,13 +97,18 @@
   "skills": [],
   "languages": [
     {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
       "language": "Hindi",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
+      "language": "Kannada",
       "fluency": "Fluent"
     }
+
   ],
   "interests": [],
   "references": [],
