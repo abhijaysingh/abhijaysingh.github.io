@@ -65,8 +65,7 @@
     {
       "institution": "University of Maryland, College Park",
       "url": "https://umd.edu",
-      "area": "Robotics",
-      "studyType": "Master of Engineering",
+      "studyType": "Master of Science",
       "startDate": "2022-08",
       "endDate": "2024-05",
       "score": "4.0",
@@ -76,7 +75,6 @@
     {
       "institution": "Sri Jayachamarajendra College of Engineering",
       "url": "https://sjce.ac.in",
-      "area": "Computer Science and Engineering",
       "studyType": "Bachelor of Engineering",
       "startDate": "2016-08",
       "endDate": "2020-05",
