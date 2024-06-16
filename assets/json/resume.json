@@ -3,16 +3,16 @@
     "name": "Abhijay Singh",
     "label": "",
     "image": "",
-    "email": "abhijayks98@gmail.com",
+    "email": "abhijay@terpmail.umd.edu",
     "phone": "",
     "url": "https:/abhijaysingh.github.io",
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "20740",
-      "city": "College Park",
+      "postalCode": "",
+      "city": "Sunnyvale",
       "countryCode": "US",
-      "region": "Maryland"
+      "region": "California"
     },
     "profiles": [
       {
@@ -93,21 +93,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Kannada",
-      "fluency": "Fluent"
-    }
-
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
